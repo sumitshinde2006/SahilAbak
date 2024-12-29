@@ -3,6 +3,7 @@ public class SahilAbak{
 		{
 		int a=10;
 		int b=20;
-		System.out.println("The addition is "+a+b);
+		int c=a+b;
+		System.out.println("The addition is "+c);
 		}
 }
